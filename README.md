@@ -29,10 +29,12 @@ With the expanded analysis completed, there are four major points that can be id
 To present a clear picture to management about the substantial changes facing the PH workforce, the four previous bullet points can be summarized as answers to the following questions:
 
 •	How many roles will need to be filled as the "silver tsunami" begins to make an impact? 
-       o	 A total of 90,398 position will need to be eventually filled. The specific role with the most open positions will be Senior Engineer, comprising 32.5% of all open positions. Yet, even with this large number of open positions, the current upper management workforce will stay mostly intact.
+
+   o A total of 90,398 position will need to be eventually filled. The specific role with the most open positions will be Senior Engineer, comprising 32.5% of all open positions. Yet, even with this large number of open positions, the current upper management workforce will stay mostly intact.
 
 •	Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett-Hackard employees?
-        o	With the current criteria set forth to classify mentorship eligibility, there does not seem to be a big enough pool of possible mentors to mentor the new generation of PH employees. There are only 1,940 possible mentors within the current PH workforce in comparison to the 90,398 positions that will become open.  That will allow only 2.14% of the new employees to have a mentor. To further expanded the mentor pool, PH could consider adjusting the mentorship criteria so it further covers a larger number of current employees.
+
+   o With the current criteria set forth to classify mentorship eligibility, there does not seem to be a big enough pool of possible mentors to mentor the new generation of PH employees. There are only 1,940 possible mentors within the current PH workforce in comparison to the 90,398 positions that will become open.  That will allow only 2.14% of the new employees to have a mentor. To further expanded the mentor pool, PH could consider adjusting the mentorship criteria so it further covers a larger number of current employees.
         
 While these summaries complete out the deliverables as assigned by upper management, there are additional pieces of insights that could create an even more robust narrative about PH’s workforce changes. For example, if demographic data were able to be accessed, the retiring employees could be further grouped by specific demographic criteria. This could help determine PH if they should consider implementing diversity initiatives within this important, next-round of hiring. Another further insight would be to include the location data of each employee. Are employees who work at headquarters those most likely to retire? Or those who work at satellite offices? These questions could be answered if such data was made available.
 
